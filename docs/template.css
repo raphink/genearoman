@@ -649,6 +649,14 @@ h1 {
 h2 {
   font-size: 31.5px;
 }
+@font-face {
+  font-family: 'Solidaritha Script';
+  src: url('Solidaritha Script.ttf');
+}
+h2:before {
+  content: 'n';
+  font-family: 'Solidaritha Script';
+}
 h3 {
   font-size: 24.5px;
 }
@@ -3051,7 +3059,7 @@ h4:hover a { color: #333; } h5:hover a { color: #333; } h6:hover a { color: #333
 .toc ul > li > a, .toc ul > li > a { padding: 3px 15px; }
 
 
-#TOC {    
+#TOC {
     overflow-y: scroll;
     top: 0;
     bottom: 0;
@@ -3062,7 +3070,7 @@ table {
 }
 
 .video-js {
-    min-width:100%; 
+    min-width:100%;
     max-width:100%;
 }
 

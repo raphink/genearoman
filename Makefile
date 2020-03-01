@@ -10,8 +10,6 @@ all: genearoman_printer.pdf
 booklet: genearoman-book.pdf
 
 docs: docs/index.html
-	cp $(HTML_THEME_DIR)/template.css docs/template.css
-	git add docs
 	git commit -m "Update docs" docs/
 
 %.md:
