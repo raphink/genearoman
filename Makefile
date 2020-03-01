@@ -8,6 +8,8 @@ all: genearoman_printer.pdf
 
 booklet: genearoman-book.pdf
 
+docs: docs/genearoman.html
+
 %.md:
 	cat meta.md > $@
 	find chapitres/ -name "*.md"  -print0 | sort -z | xargs -0 cat >> $@
