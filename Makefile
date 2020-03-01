@@ -8,7 +8,7 @@ all: genearoman_printer.pdf
 
 booklet: genearoman-book.pdf
 
-docs: docs/genearoman.html
+docs: docs/index.html
 	git commit -m "Update docs" docs/
 
 %.md:
