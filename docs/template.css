@@ -648,14 +648,18 @@ h1 {
 }
 h2 {
   font-size: 31.5px;
+  height: 60px;
 }
 @font-face {
-  font-family: 'Solidaritha Script';
-  src: url('Solidaritha Script.ttf');
+  font-family: 'IM FELL Flowers 2';
+  src: url('IMFeFlow2.otf');
 }
 h2:before {
   content: 'n';
-  font-family: 'Solidaritha Script';
+  font-family: 'IM FELL Flowers 2';
+  font-weight: normal;
+  position: absolute;
+  left: 50%;
 }
 h3 {
   font-size: 24.5px;
