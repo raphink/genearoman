@@ -9,6 +9,7 @@ all: genearoman_printer.pdf
 booklet: genearoman-book.pdf
 
 docs: docs/genearoman.html
+	git commit -m "Update docs" docs/
 
 %.md:
 	cat meta.md > $@
