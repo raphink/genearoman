@@ -3,12 +3,15 @@ FONTSDIR := fonts
 QUALITY := printer
 # Impression sur papier a3, 156*2=312mm
 BOOKLET_PAPER := {234mm,312mm}
+HTML_THEME_DIR := pandoc-bootstrap-adaptive-template
 
 all: genearoman_printer.pdf
 
 booklet: genearoman-book.pdf
 
 docs: docs/index.html
+	cp $(HTML_THEME_DIR)/template.css docs/template.css
+	git add docs
 	git commit -m "Update docs" docs/
 
 %.md:
@@ -44,7 +47,7 @@ docs: docs/index.html
 	gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/printer -dNOPAUSE -dBATCH  -dQUIET -sOutputFile="$@" "$<"
 
 %.html: %.md
-	pandoc --verbose $< -o $@
+	pandoc --verbose $< -o $@ --template $(HTML_THEME_DIR)/standalone.html --css $(HTML_THEME_DIR)/template.css
 
 %.epub: %.md
 	pandoc --verbose $< -o $@

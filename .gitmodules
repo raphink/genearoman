@@ -1,0 +1,3 @@
+[submodule "pandoc-bootstrap-adaptive-template"]
+	path = pandoc-bootstrap-adaptive-template
+	url = git@github.com:diversen/pandoc-bootstrap-adaptive-template.git
