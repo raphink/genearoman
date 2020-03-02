@@ -12,6 +12,10 @@ booklet: genearoman-book.pdf
 docs: docs/index.html
 	git commit -m "Update docs" docs/
 
+stats:
+	find chapitres/ -name "*.md" -not -name '00_titre.md' -print0 | sort -z | xargs -0 wc -w
+
+
 %.md:
 	cat meta.md > $@
 	find chapitres/ -name "*.md"  -print0 | sort -z | xargs -0 cat >> $@
