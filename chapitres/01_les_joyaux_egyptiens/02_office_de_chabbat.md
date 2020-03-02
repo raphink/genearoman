@@ -43,7 +43,8 @@ répondit:
 \og Jacob Léon, n'est-ce pas? J'ai entendu parler de vous. Il me semble avoir
 entendu que l'un de vos fils vit à Paris.
 
---- Effectivement, et vous êtes…
+--- En réalité, plusieurs de mes neuf enfants sont maintenant en France.
+*Ijo de ken sos tu?*
 
 --- Adolphe Grünberg habite également à Paris, le coupa Isaac. Il est joaillier,
 fils d'Avigdor, qui est passé plusieurs fois par ici il y a une trentaine

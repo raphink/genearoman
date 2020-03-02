@@ -46,7 +46,7 @@ années à extraire les joyaux des armes royales.
 --- C'est exact,
 rétorqua Adolphe. Cependant, le gouvernement égyptien n'a jamais
 complètement daigné honorer ses engagements, et j'attend encore à ce
-jour le paiement de mes honoraires de vente. Je suis donc revenu pour
+jour le paiement de ma part des ventes. Je suis donc revenu pour
 régler cette affaire, et j'espère bien obtenir des intérêts sur les
 douze ans de retard de paiement!
 
