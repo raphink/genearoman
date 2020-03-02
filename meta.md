@@ -1,5 +1,5 @@
 ---
-title: Genearoman
+title: Long Tom
 toc: false
 lang: french
 cover: media/famillecolorizeml.png
