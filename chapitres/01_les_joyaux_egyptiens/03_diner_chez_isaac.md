@@ -35,7 +35,8 @@ organiser leur union dans quelques années.
 pour s'accorder. »
 
 
-Le repas était terminé, et Semha Aghion s'était levée pour accompagner les
+Le souper se poursuivit dans les formalités les plus aimables.
+À la fin du repas, Semha Aghion pris congé pour accompagner les
 enfants à leurs chambres. À la lumière vacillante des bougies, les hommes
 avaient pris place au salon dont les grilles des fenêtres laissaient entrer un
 doux zéphyr.
@@ -51,8 +52,8 @@ dont était certis les armes royales.
 
 --- Oui. Il m'a fallu pas moins de trente ouvriers pour venir à bout des
 centaines de sabres, fusils, baïonnettes et autres lances. Sans parler des
-uniformes, ceinturons et casques. J'ai donc présenté une facture de près de
-200.000 francs, comprenant les frais matériels engagés, le droits à l'estimation des
+uniformes, ceinturons et casques. J'ai donc présenté une facture de près de 200.000 francs,
+comprenant les frais matériels engagés, le droits à l'estimation des
 pierres précieuses, une commission sur la vente, ainsi que le paiement de mes
 prestations de services. Le gouvernement a refusé de payer la somme.
 
@@ -68,4 +69,5 @@ lors de la vente…
 
 --- Demain, le 6 mai.
 
---- Un jour de chabbat! Vraiment ces gens n'ont aucun respect pour nos usages! »
+--- Un jour de chabbat, fit remarquer Isaac. Il est surprenant d'ignorer à ce
+point nos usages… »
