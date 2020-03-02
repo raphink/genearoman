@@ -13,7 +13,7 @@ Attablés en compagnie de la famille Aghion dans la grande salle à manger de la
 villa, les trois hommes partageaient les formalités d'usage qui scellent
 les prémices d'une amitié et renforcent les liens endormis.
 
-\og Élisabeth et moi avons six enfants. L'aînée, Émilie, va avoir neuf ans
+« Élisabeth et moi avons six enfants. L'aînée, Émilie, va avoir neuf ans
 et Jacques a récemment eu un an.
 
 --- Une bien belle famille, s'exclama Isaac. Nous avons également six enfants.
@@ -32,7 +32,7 @@ constituerait un très bon parti pour lui. Si tout va bien, nous pourrions
 organiser leur union dans quelques années.
 
 --- Cela un parti raisonnable, commenta Adolphe. Vos familles semblent faites
-pour s'accorder. \fg
+pour s'accorder. »
 
 
 Le repas était terminé, et Semha Aghion s'était levée pour accompagner les
@@ -40,7 +40,7 @@ enfants à leurs chambres. À la lumière vacillante des bougies, les hommes
 avaient pris place au salon dont les grilles des fenêtres laissaient entrer un
 doux zéphyr.
 
---- Et quelle est donc cette affaire qui fait resurgir le spectre de Saïd
+« Et quelle est donc cette affaire qui fait resurgir le spectre de Saïd
 Pacha, Adolphe? s'enquérit Isaac.
 
 --- Il s'agit du paiement de mes honoraires lors de la vente des joyaux de la
@@ -68,4 +68,4 @@ lors de la vente…
 
 --- Demain, le 6 mai.
 
---- Un jour de chabbat! Vraiment ces gens n'ont aucun respect pour nos usages!
+--- Un jour de chabbat! Vraiment ces gens n'ont aucun respect pour nos usages! »

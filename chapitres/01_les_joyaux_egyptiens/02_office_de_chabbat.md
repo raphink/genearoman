@@ -40,7 +40,7 @@ Dans la pénombre, Adolphe n'avait pas vu Isaac s'approcher et lui poser la main
 sur l'épaule. Se retournant, il aperçu l'homme qui accompagnait le banquier et
 répondit:
 
-\og Jacob Léon, n'est-ce pas? J'ai entendu parler de vous. Il me semble avoir
+« Jacob Léon, n'est-ce pas? J'ai entendu parler de vous. Il me semble avoir
 entendu que l'un de vos fils vit à Paris.
 
 --- En réalité, plusieurs de mes neuf enfants sont maintenant en France.
@@ -62,5 +62,5 @@ au vice-roi qui m'ont à nouveau amené en Égypte.
 Se tournant vers les deux hommes, Isaac esquissa un gest d'invitation:
 
 --- Ma villa n'est qu'à une centaine de mètres. Allons-y à pied,
-nous profiterons ainsi de la douceur de cette soirée.
+nous profiterons ainsi de la douceur de cette soirée. »
 
