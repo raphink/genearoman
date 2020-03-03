@@ -61,7 +61,7 @@ de dromadaire, reprit Adolphe. Le canal a bien changé la donne!
 au vice-roi qui m'ont à nouveau amené en Égypte.
 
 
-Se tournant vers les deux hommes, Isaac esquissa un gest d'invitation:
+Se tournant vers les deux hommes, Isaac esquissa un geste d'invitation:
 
 --- Ma villa n'est qu'à une centaine de mètres. Allons-y à pied,
 nous profiterons ainsi de la douceur de cette soirée. »
