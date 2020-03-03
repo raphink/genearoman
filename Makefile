@@ -5,9 +5,9 @@ QUALITY := printer
 BOOKLET_PAPER := {234mm,312mm}
 HTML_THEME_DIR := pandoc-bootstrap-adaptive-template
 
-all: genearoman_printer.pdf
+all: long_tom.pdf
 
-booklet: genearoman-book.pdf
+booklet: long_tom-book.pdf
 
 docs: docs/index.html
 	git commit -m "Update docs" docs/
