@@ -1,3 +1,5 @@
+<!-- C01S01: Une rencontre inattendue -->
+
 
 \lettrine{I}l est des villes dont le nom excite l'imagination par la grandeur de
 leur passé. Il est des villes dont l'évocation inspire le silence.
