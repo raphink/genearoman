@@ -1,4 +1,12 @@
-<!-- C01S02: Office de chabbat -->
+<!--
+C01S02: Office de chabbat
+Personnages:
+  - Adolphe Grünberg
+  - Isaac Aghion
+  - Jacob Léon
+POV: Adolphe Grünberg
+Résumé:
+-->
 
 ## 
 

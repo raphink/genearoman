@@ -1,4 +1,11 @@
-<!-- C01S01: Une rencontre inattendue -->
+<!--
+C01S01: Une rencontre inattendue
+Personnages:
+  - Adolphe Grünberg
+  - Isaac Aghion
+POV: Adolphe Grünberg
+Résumé:
+-->
 
 
 \lettrine{I}l est des villes dont le nom excite l'imagination par la grandeur de

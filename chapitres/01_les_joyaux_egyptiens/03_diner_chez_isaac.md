@@ -1,4 +1,16 @@
-<!-- C01S03: Un diner chez Isaac -->
+<!--
+C01S03: Un diner chez Isaac
+Personnages:
+  - Adolphe Grünberg
+  - Isaac Aghion
+  - Jacob Léon
+  - Semha Aghion
+  - Eugénie Aghion
+  - Jacques Aghion
+  - Corinne Aghion
+POV: Adolphe Grünberg
+Résumé:
+-->
 
 ##
 
