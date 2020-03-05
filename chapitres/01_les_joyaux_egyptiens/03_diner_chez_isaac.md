@@ -58,14 +58,16 @@ doux zéphyr.
 « Et quelle est donc cette affaire qui fait resurgir le spectre de Saïd
 Pacha, Adolphe? s'enquérit Isaac.
 
---- Il s'agit du paiement de mes honoraires lors de la vente des joyaux de la
-couronne. J'ai travaillé entre 1855 et 1863 à démonter les pierres précieuses
-dont était certis les armes royales. 
+--- Il s'agit du paiement de mes honoraires lors de la vente de joyaux de la
+couronne. Lors de mon précédent séjour entre 1855 et 1863, j'ai travaillé
+à démonter des pierres dont étaient certies des armes royales ainsi que des
+pièces de joaillerie. 
 
 --- Huit années, leur quantité devait être remarquable!
 
---- Oui. Il m'a fallu pas moins de trente ouvriers pour venir à bout des
-centaines de sabres, fusils, baïonnettes et autres lances. Sans parler des
+--- En réalité je n'ai travaillé sur cette commande qu'à partir de 1861.
+Cependant, il m'a tout de même fallu pas moins de trente ouvriers pendant un mois
+pour venir à bout des centaines de sabres, fusils, baïonnettes et autres lances. Sans parler des
 uniformes, ceinturons et casques. J'ai donc présenté une facture de près de 200.000 francs,
 comprenant les frais matériels engagés, le droits à l'estimation des
 pierres précieuses, une commission sur la vente, ainsi que le paiement de mes
