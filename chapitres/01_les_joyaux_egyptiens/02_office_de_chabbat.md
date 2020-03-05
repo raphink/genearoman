@@ -24,7 +24,9 @@ iridescence orangée.
 
 Suivant la foule, Adolphe franchit les colonnades qui flanquaient l'entrée et
 prit place pour l'office. Dans la lumière tamisée des candélabres, le cantor
-entonna sa psalmodie. Adolphe ferma les yeux et fut transporté à des milliers de
+entonna sa psalmodie et son chant l'éleva mélodieusement entre les colonnades
+de marbre rose de la nef.
+Adolphe ferma les yeux et fut transporté à des milliers de
 kilomètres de là. Dans sa ville natale de Brody, que l'Empereur Joseph II
 d'Autriche avait surnommé la Jérusalem autrichienne tant la population juive
 y était importante, le repos du chabbat lui
