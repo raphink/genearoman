@@ -21,13 +21,13 @@ défiaient la symétrie de l'artère.
 Les lumières aux fenêtres des villas carrées qui la ponctuaient de leurs ombres
 témoignaient de l'activité de ses habitants.
 
-"Parle-nous de tes enfants, Adolphe."
+"Parle-nous de tes enfants, Abraham."
 
 Attablés en compagnie de la famille Aghion dans la grande salle à manger de la
 villa, les trois hommes partageaient les formalités d'usage qui scellent
 les prémices d'une amitié et renforcent les liens endormis.
 
-« Élisabeth et moi avons six enfants. L'aînée, Émilie, va avoir neuf ans
+« Élisabeth et moi avons six enfants. L'aînée, Émilie, va avoir neuf ans
 et Jacques a récemment eu un an.
 
 --- Une bien belle famille, s'exclama Isaac. Nous avons également six enfants.
@@ -46,7 +46,7 @@ constituerait un très bon parti pour lui. Si tout va bien, nous pourrions
 organiser leur union dans quelques années.
 
 --- Cela paraît être un parti raisonnable, commenta Adolphe. 
-Vos familles semblent faites pour s'accorder. »
+Vos familles semblent faites pour s'accorder. »
 
 
 Le souper se poursuivit dans les formalités les plus aimables.
@@ -60,7 +60,7 @@ Pacha, Adolphe? s'enquérit Isaac.
 
 --- Il s'agit du paiement de mes honoraires lors de la vente de joyaux de la
 couronne. Lors de mon précédent séjour entre 1855 et 1863, j'ai travaillé
-à démonter des pierres dont étaient certies des armes royales ainsi que des
+à démonter des pierres dont étaient serties des armes royales ainsi que des
 pièces de joaillerie. 
 
 --- Huit années, leur quantité devait être remarquable!
@@ -86,4 +86,4 @@ lors de la vente…
 --- Demain, le 6 mai.
 
 --- Un jour de chabbat, fit remarquer Isaac. Il est surprenant d'ignorer à ce
-point nos usages… »
+point nos usages… »

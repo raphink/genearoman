@@ -22,7 +22,7 @@ achevant de traverser la rue, contempla la façade de la synagogue
 avaient pris une teinte de feu qui donnait au vénérable édifice une
 iridescence orangée.
 
-Suivant la foule, Adolphe franchit les colonnades qui flanquaient l'entrée et
+Suivant la foule, Adolphe franchit les piliers qui flanquaient l'entrée et
 prit place pour l'office. Dans la lumière tamisée des candélabres, le cantor
 entonna sa psalmodie et son chant l'éleva mélodieusement entre les colonnades
 de marbre rose de la nef.
@@ -46,14 +46,14 @@ savourer le repas tant attendu.
 Dehors, le crépuscule avait déjà envahi le ciel,
 et les allumeurs de réverbères s'affairaient à leur tâche au faîte de leurs échelles.
 
-"As-tu déjà rencontré Jacob, Abraham?"
+"Abraham, as-tu déjà rencontré Jacob?"
 
 Dans la pénombre, Adolphe n'avait pas vu Isaac s'approcher et lui poser la main
 sur l'épaule. Se retournant, il aperçu l'homme qui accompagnait le banquier et
 répondit:
 
 « Jacob Léon, n'est-ce pas? J'ai entendu parler de vous. Il me semble avoir
-entendu que l'un de vos fils vit à Paris.
+ouï dire que l'un de vos fils vit à Paris.
 
 --- En réalité, plusieurs de mes neuf enfants sont maintenant en France.
 *Ijo de ken sos tu?*
