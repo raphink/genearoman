@@ -1,8 +1,9 @@
 ---
 title: Long Tom
+subtitle: " "
+cover: media/cover.jpg
 toc: false
 lang: french
-cover: media/famillecolorizeml.png
 author: Raphaël Pinson
 date: Version du \today
 ...
