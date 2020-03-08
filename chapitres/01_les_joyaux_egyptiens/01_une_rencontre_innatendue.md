@@ -40,7 +40,7 @@ Et il s'engagea dans l'escalier. Au pied de l'imposante muraille, Isaac
 Aghion l'attendait, un sourire éclairant son visage. Adolphe lui serra
 amicalement les mains.
 
-« Je ne te savais pas de retour en Egypte, Abraham! Quelle affaire
+« Je ne te savais pas de retour en Egypte, Abraham! Quelle affaire
 t'amène ici?
 
 --- Tu te rappelles probablement de mon précédent séjour,
@@ -62,7 +62,7 @@ douze ans de retard de paiement!
 --- Je te le souhaite également. Mais
 j'aimerais que tu me donnes de plus amples nouvelles de toi, de ta
 famille et de la situation en France, et ce n'est ni le lieu, ni le
-moment de s'épandre sur ces sujets. »
+moment de s'étendre sur ces sujets. »
 
 Isaac marqua une pause, caressant pensivement son menton, puis repris,
 l'air décidé:
