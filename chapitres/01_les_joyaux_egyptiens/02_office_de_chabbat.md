@@ -40,6 +40,14 @@ leur rendait parfois visite à Vienne. En devenant français il y a dix ans,
 Adolphe avait résolument laissé l'Autriche dans son passé.
 
 
+<!--
+TODO: couper ici et faire une section complète à Brody
+Introduire l'environnement,
+la famille Schorr: ses grand-parents Schachne & Lea, Naphtali & sa famille,
+la maison de Brody, la synagogue, etc.
+-->
+
+
 Un silence soudain le tira de sa torpeur. Adolphe ouvrit péniblement les yeux.
 L'office était terminé, et chacun se dirigeait vers la sortie, en hâte de
 savourer le repas tant attendu.
