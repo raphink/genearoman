@@ -110,16 +110,16 @@ Il prit ensuite une longue liste et entreprit de la lire:
 
 « Deux mille cinq cent soixante quinze gibernes en argent,
 sept cent quarante huit sabres en argent,
-trois cent trente quatre fusils,
-trois cent trente quatre bajonnettes,
-dix huit carabines,
-soixante dix bâtons de ca vas en argent,
-quatre vingt dix neuf lances et perches à drapeaux,
-quatre vingt trois casquesen argent,
-cent cinquante une brides complètes en argent,
-huit cent quatre vingt seize brides incomplètes en argent,
-deux cent vingt sept ceinturons de sabre en argent,
-cinq cent quatre vingt trois Nichans en or ou en argent…
+trois cent trente-quatre fusils,
+trois cent trente-quatre baïonnettes,
+dix-huit carabines,
+soixante-dix bâtons de cavas en argent,
+quatre-vingt-dix-neuf lances et perches à drapeaux,
+quatre-vingt-trois casques en argent,
+cent cinquante-et-une brides complètes en argent,
+huit cent quatre-vingt-seize brides incomplètes en argent,
+deux cent vingt-sept ceinturons de sabre en argent,
+cinq cent quatre-vingt-trois Nichans en or ou en argent…
 
 --- Cela sera suffisant, M. Grünberg, l'interrompit le juge.  M. le gouverneur,
 avez-vous une objection à formuler?
