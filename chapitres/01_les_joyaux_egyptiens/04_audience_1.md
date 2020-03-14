@@ -81,7 +81,7 @@ propre.
 l'État dans le cadre de ce travail. Aucun employé de la *Daïra* privée du
 prince n'a été impliqué. Ce sont par ailleurs ces mêmes fonctionnaires qui ont
 eu la charge du contrôle direct des opérations jusqu'à la livraison.
-Les objets destinés à la vente m'ont été remis par Anahtar Agassi, qui était
+Les objets destinés à la vente m'ont été remis par M. Anahtar Agassi, qui était
 à l'époque trésorier de l'État.
 De plus, une lettre de son Excellence le ministre des Affaires Étrangères
 Zulficar Pacha et datée du 26 Cha'ban 1278, démontre que les objets consignés
