@@ -108,21 +108,21 @@ appartenaient au gouvernement. Jugez-en plutôt. »
 Adolphe se saisit du verre posé sur la table devant lui et le vida lentement.
 Il prit ensuite une longue liste et entreprit de la lire:
 
-« Deux mille cinq cent soixante quinze gibernes en argent;
-Sept cent quarante huit sabres en argent;
-Trois cent trente quatre fusils;
-Trois cent trente quatre bajonnettes;
-Dix huit carabines;
-Soixante dix bâtons de ca vas en argent;
-Quatre vingt dix neuf lances et perches à drapeaux;
-Quatre vingt trois casquesen argent;
-Cent cinquante une brides complètes en argent;
-Huit cent quatre vingt seize brides incomplètes en argent;
-Deux cent vingt sept ceinturons de sabre en argent;
-Cinq cent quatre vingt trois Nichans en or ou en argent…
+« Deux mille cinq cent soixante quinze gibernes en argent,
+sept cent quarante huit sabres en argent,
+trois cent trente quatre fusils,
+trois cent trente quatre bajonnettes,
+dix huit carabines,
+soixante dix bâtons de ca vas en argent,
+quatre vingt dix neuf lances et perches à drapeaux,
+quatre vingt trois casquesen argent,
+cent cinquante une brides complètes en argent,
+huit cent quatre vingt seize brides incomplètes en argent,
+deux cent vingt sept ceinturons de sabre en argent,
+cinq cent quatre vingt trois Nichans en or ou en argent…
 
---- Cela sera suffisant, M. Grünberg. M. le gouverneur, avez-vous une objection
-à formuler à cet argument?
+--- Cela sera suffisant, M. Grünberg, l'interrompit le juge.  M. le gouverneur,
+avez-vous une objection à formuler?
 
 
 Hassan Pacha avait patiemment écouté la tirade d'Adolphe. Redressant d'un geste
