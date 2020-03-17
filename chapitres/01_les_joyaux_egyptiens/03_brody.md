@@ -31,8 +31,8 @@ grande ville!
 Ce n'était pas que Brody était une mauvaise patrie, bien au contraire. Comparé
 à la simplicité de Mezeritch où Victor avait grandi, Brody faisait figure de
 capitale. Après tout, elle avait acquis une grande réputation dans le monde
-juif par le nombre de notables qui y résidaient depuis bien longtemps, et sa
-situation frontalière y attiraient un nombre croissant d'exilés de Russie voisine,
+juif par le nombre de notables qui y résidaient depuis fort longtemps, et sa
+situation frontalière y attirait un nombre croissant d'exilés de Russie voisine,
 fuyant les pogroms de plus en plus nombreux depuis que l'impératrice Catherine
 avait mis en place la zone de résidence.
 Ce n'était pas pour rien que l'Empereur Joseph II avait surnommé

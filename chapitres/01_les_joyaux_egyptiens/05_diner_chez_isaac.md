@@ -25,21 +25,23 @@ témoignaient de l'activité de ses habitants.
 
 Attablés en compagnie de la famille Aghion dans la grande salle à manger de la
 villa, les trois hommes partageaient les formalités d'usage qui scellent
-les prémices d'une amitié et renforcent les liens endormis.
+les prémices d'une amitié naissante et renforcent les liens endormis par
+l'absence.
 
 « Élisabeth et moi avons six enfants. L'aînée, Émilie, va avoir neuf ans
-et Jacques a récemment eu un an.
+et Jacques vient d'avoir un an.
 
 --- Une bien belle famille, s'exclama Isaac. Nous avons également six enfants.
 Les aînés sont maintenant mariés, et nous avons encore avec nous Eugénie,
-Jacques et Corinne.
+Jacques et Corinne. »
 
 Il étendit le bras pour présenter ses enfants assis autour de la table.
 Les joues d'Eugénie s'empourprèrent légérement à la mention de son prénom.
-La petite Corinne semblait concentrer toute son attention sur la tenue correcte de ses couverts.
+Jacques ne broncha pas, et la petite Corinne semblait concentrer toute
+son attention sur la tenue correcte de ses couverts.
 Jacob prit la parole:
 
---- Ma visite n'est pas étrangère à l'avenir de nos enfants.
+« Ma visite n'est pas étrangère à l'avenir de nos enfants.
 Isaac et moi avons le projet d'unir nos familles. Mon deuxième fils, Meïr,
 arrive en âge de se marier, et nous sommes tombés d'accord qu'Eugénie
 constituerait un très bon parti pour lui. Si tout va bien, nous pourrions
@@ -52,7 +54,7 @@ Vos familles semblent faites pour s'accorder. »
 Le souper se poursuivit dans les formalités les plus aimables.
 À la fin du repas, Semha Aghion prit congé pour accompagner les
 enfants à leurs chambres. À la lumière vacillante des bougies, les hommes
-avaient pris place au salon dont les grilles des fenêtres laissaient entrer un
+avaient pris place au salon, dont les grilles des fenêtres laissaient entrer un
 doux zéphyr.
 
 « Et quelle est donc cette affaire qui fait resurgir le spectre de Saïd

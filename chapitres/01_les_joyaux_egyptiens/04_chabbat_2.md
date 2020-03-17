@@ -19,16 +19,16 @@ ouï dire que l'un de vos fils vit à Paris.
 *Ijo de ken sos tu?*
 
 --- Adolphe Grünberg habite également à Paris, le coupa Isaac. Il est joaillier,
-fils d'Avigdor, qui est passé plusieurs fois par ici il y a une trentaine
-d'années lors de ses voyages en Inde où il faisait le commerce des perles.
+comme son père Avigdor, qui est passé plusieurs fois par ici il y a une trentaine
+d'années lors de ses voyages en Inde, où il faisait le commerce des perles.
 
 --- À l'époque où il fallait encore débarquer pour accéder à la Mer Rouge à dos
 de dromadaire, reprit Adolphe. Le canal a bien changé la donne!
 
---- Grâce à la politique de Saïd Pacha! s'exclama Isaac.
+--- C'est grâce à la politique de Saïd Pacha! s'exclama Isaac.
 
 --- Ne m'en parle pas! Tu sais que ce sont justement des affaires liées
-au vice-roi qui m'ont à nouveau amené en Égypte.
+au vice-roi qui m'ont à nouveau amené en Égypte. »
 
 
 Se tournant vers les deux hommes, Isaac esquissa un geste d'invitation:

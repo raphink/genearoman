@@ -18,7 +18,7 @@ ouvertes s'empressaient de fermer boutique.
 
 Adolphe évita de justesse le passage d'un tramway hippomobile et,
 achevant de traverser la rue, contempla la façade de la synagogue
-Éliyahu Hanavi. Dans la lueur du soleil couchant, ses pierres blanches
+Éliyahu Hanavi. À la lueur du soleil couchant, ses pierres blanches
 avaient pris une teinte de feu qui donnait au vénérable édifice une
 iridescence orangée.
 

@@ -40,17 +40,16 @@ Et il s'engagea dans l'escalier. Au pied de l'imposante muraille, Isaac
 Aghion l'attendait, un sourire éclairant son visage. Adolphe lui serra
 amicalement les mains.
 
-« Je ne te savais pas de retour en Egypte, Abraham! Quelle affaire
+« Je ne te savais pas de retour en Égypte, Abraham! Quelle affaire
 t'amène ici?
 
 --- Tu te rappelles probablement de mon précédent séjour,
-durant lequel j'avais travaillé pour le compte du gouvernement et du
-vice roi...
+durant lequel j'avais travaillé pour le compte du gouvernement...
 
 --- Effectivement, c'était il y a déjà une quinzaine
 d'années, si ma mémoire est bonne. Avant le décès de Saïd Pacha dans
-tous les cas. Je crois me souvenir que tu avais travaillé quelques
-années à extraire les joyaux des armes royales.
+tous les cas. Je crois me souvenir que tu avais travaillé
+à extraire des joyaux des armes royales.
 
 --- C'est exact,
 rétorqua Adolphe. Cependant, le gouvernement égyptien n'a jamais
@@ -73,6 +72,6 @@ affaires."
 
 Adolphe accepta l'invitation d'Isaac, sans chercher à dissimuler le plaisir que lui
 procurait la perspective de cette compagnie inespérée. Après avoir
-brièvement salué le banquier égyptien, il tourna les talons et s'éloigna
+brièvement salué le banquier, il tourna les talons et s'éloigna
 d'un pas décidé en direction du centre ville.
 

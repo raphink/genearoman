@@ -19,7 +19,7 @@ Personnages:
 "Auriez-vous l'obligeance de bien vouloir rappeler à la cour votre version
 des faits, M. Grünberg?"
 
-La salle d'audience n'était pas très pleine, mais la chaleur ambiante rendait
+La salle d'audience était loin d'être pleine, mais la chaleur ambiante rendait
 l'atmosphère pesante. Adolphe sortit son mouchoir de sa poche et s'épongea la
 nuque avant de répondre:
 
@@ -101,15 +101,15 @@ de livraison cités précédemment.
 --- M. Grünberg, avez-vous une preuve que les objets sus-cités appartenaient au
 gouvernement et non à son Altesse Saïd Pacha?
 
---- La nature des objets, qui sont tous listés préciséments dans le journal des
+--- La nature des objets, qui sont tous listés précisément dans le journal des
 travaux de démontage versés au dossier, devrait vous convaincre aisément qu'ils
 appartenaient au gouvernement. Jugez-en plutôt. »
 
 Adolphe se saisit du verre posé sur la table devant lui et le vida lentement.
 Il prit ensuite une longue liste et entreprit de la lire:
 
-« Deux mille cinq cent soixante quinze gibernes en argent,
-sept cent quarante huit sabres en argent,
+« Deux mille cinq cent soixante-quinze gibernes en argent,
+sept cent quarante-huit sabres en argent,
 trois cent trente-quatre fusils,
 trois cent trente-quatre baïonnettes,
 dix-huit carabines,
