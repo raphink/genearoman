@@ -1,5 +1,5 @@
 <!--
-C01S03: Un diner chez Isaac
+C01S05: Un diner chez Isaac
 Personnages:
   - Adolphe Grünberg
   - Isaac Aghion

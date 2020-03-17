@@ -1,5 +1,5 @@
 <!--
-C01S04: Audience
+C01S06: Audience
 Résumé: première audience du 6 mai 1876
 Références:
  - https://gallica.bnf.fr/ark:/12148/bpt6k5406990b/f475.item.r=grunberg
