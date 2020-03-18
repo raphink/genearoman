@@ -5,11 +5,11 @@ QUALITY := printer
 BOOKLET_PAPER := {234mm,312mm}
 HTML_THEME_DIR := pandoc-bootstrap-adaptive-template
 
-all: long_tom.pdf
+all: docs
 
 booklet: long_tom-book.pdf
 
-docs: docs/index.html
+docs: docs/index.html docs/long_tom.pdf
 	git commit -m "Update docs" docs/
 
 stats:
