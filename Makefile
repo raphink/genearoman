@@ -9,7 +9,8 @@ all: docs
 
 booklet: long_tom-book.pdf
 
-docs: docs/index.html docs/long_tom.pdf
+docs: docs/index.html long_tom.pdf
+	cp long_tom.pdf docs/
 	git commit -m "Update docs" docs/
 
 stats:
