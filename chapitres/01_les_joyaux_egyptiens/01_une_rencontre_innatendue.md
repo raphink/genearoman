@@ -4,7 +4,8 @@ Personnages:
   - Adolphe Grünberg
   - Isaac Aghion
 POV: Adolphe Grünberg
-Résumé:
+Résumé: Adolphe Grünberg vient d'arriver à Alexandrie. Il y rencontre Isaac
+Aghion, qui l'invite à dîner.
 -->
 
 

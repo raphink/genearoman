@@ -43,7 +43,7 @@ Brody la Jérusalem autrichienne!
 Adolphe se décala légèrement sur le banc afin que Dorothée puisse s'asseoir
 à son côté. *Bobe* Sarah les accompagnait toujours à l'office du vendredi soir.
 Elle aimait passer du temps avec ses petits enfants depuis le décès de
-*zeyde* Schachne quatre ans auparavant. Qu'allait-elle devenir si la famille
+*Zeyde* Schachne quatre ans auparavant. Qu'allait-elle devenir si la famille
 déménageait à Paris? L'oncle Naphtali prendrait probablement soin d'elle.
 
 Paris… Du haut de ses seize ans, Adolphe s'imaginait déjà la gloire et les
