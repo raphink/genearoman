@@ -299,23 +299,205 @@ Time line
 
 * 1892-07-28, Bougival: Naissance de Boby Goldschmid
 
+* Ecole Centrale, promotion 1892: Samuel Leon & Leon Grünberg
+
+
+# 1893
+
+* 1893-1895, Paris: Léon Grunberg ingénieur au service de la voie à la Compagnie du Nord
+
+
+# 1894
+
+* 1893-1895, Paris: Léon Grunberg ingénieur au service de la voie à la Compagnie du Nord
+
 
 # 1895
 
+* 1895-08-23: Contrat L. Grunberg / Creusot
+
 * 1895-09-01, Brody: Décès de Osias Schorr
+
+* 1893-1895, Paris: Léon Grunberg ingénieur au service de la voie à la Compagnie du Nord
+
+* 1895-1900: Léon Grunberg ingénieur et représentant général des Usines
+  Schneider & Cie pour l'Afrique du Sud
+
+
+# 1896
+
+* 1896-02-04: Contrat de commande de batteries
+
+* 1896-02-19: Commande de batteries, listing (R7065 - TAB_740.JPG & suiv)
+
+* 1896-03-13: Contrat signé (R7065 - TAB_797.JPG & suiv)
+
+* 1896-05-27: L. Grunberg demande instructions pour départ en France le 10 juin (R7065 - TAB_705.JPG)
+
+* 1896-10-29: Visite du ministre ZAR au Creusot (R7065 - TAB_717.JPG)
+
+* 1895-1900: Léon Grunberg ingénieur et représentant général des Usines
+  Schneider & Cie pour l'Afrique du Sud
 
 
 # 1897
 
 * 1897-?: Décès de Friedrich Rau
 
+* 1897-02-26: Siege material shipped from Creusot (R7065 - TAB_749.JPG,
+  TAB_753.JPG)
+
+* 1897-03-30: relance de 3e paiement au Creusot (R7065 - TAB_776.JPG)
+
+* 1897-04-16: envoi marchandises par paquebot Santa Fé de Bordeaux vers
+  Lourenço Marquès (R7065 - TAB_783.JPG)
+
+* 1897-06-31: demande licence de vente de vin et bière près du fort
+  Daasportrand (R10237)
+
+* 1895-1900: Léon Grunberg ingénieur et représentant général des Usines
+  Schneider & Cie pour l'Afrique du Sud
+
+
+# 1898
+
+
+* 1898-08-05: problèmes éclairage palais de Justice (R12746)
+
+* 1895-1900: Léon Grunberg ingénieur et représentant général des Usines
+  Schneider & Cie pour l'Afrique du Sud
+
 
 # 1899
 
 * 1899-01-14: Naturalisation de Samuel Leon
 
+* 1899-03-28: Contrat Schneider/ZAR (pdf)
+
+* 1899-06-07: commande d'instruments de télégraphie optique (R8853)
+ 
+* 1899-06-08: maçonnerie de fondations pour 2 pièces de 15cm (R8456)
+ 
+* 1899-12-08: Mention de L. Grunberg & S. Léon dans le carnet de campagne de Villebois Mareuil (cause israélite + Boers) (Carnets de campagne, p. 32)
+ 
+* 1899-12-29: Dons pour les Boers (Le Journal), dont Fred Grunberg
+
+* 1895-1900: Léon Grunberg ingénieur et représentant général des Usines
+  Schneider & Cie pour l'Afrique du Sud
+
+
+# 1900
+
+* 1900-01-14: Villebois Mareuil chez L. Grunberg & S. Léon à Pretoria (Carnets de
+campagne, p. 158)
+
+* 1900-02-12: Accident de Sam Léon à Kimberley (Carnets de campagne, p. 253; Dix
+mois de campagne, p. 82)
+
+* 1900-02-23: Articles suite à lettre Villebois Mareuil: Canon Creusot, Grunberg
+& Leon (Gil Blas, La Croix, Le Petit Troyen, Figaro, Birmigham Daily Post,
+Boston Globe, The Standard, The Guardian)
+
+* 1900-02-28: The Standard, on Boer forces, incl. Grunberg & Leon
+
+* 1900-03-07: The Daily News on Villebois' Letter
+
+* 1900-03-25: Villebois' letter translated in The Leavenworth Times
+
+* 1900-04-05: Bataille de Boshof, décès de Villebois-Mareuil
+
+* 1900-04-16: Article sur accident S. Léon (Le Journal)
+
+* 1900-04-25: Retour S. Léon à Marseille (L'Univers, The Times)
+
+* 1900-04-25: Explosion at Pretoria (The Boston Globe)
+
+* 1900-04-26: Interview S. Léon après retour en France (L'Univers)
+
+* 1900-04-27: Explosion at Pretoria on 25th (Boston Globe, Northern Echo,
+Sterling Standard, Beatrice Daily Express, Guardian, etc.)
+
+* 1900-04-27: Article sur S. Léon et L. Grunberg: rôles respectifs (Sam sur le
+terrain, Léon à l'usine)
+
+* 1900-04-28: burial after explosion (The Times London)
+
+* 1900-05-02: British suspect in explosion (Stanberry Headlight, Glasgow Herald,
+The Times London)
+
+* 1900-05-04: No proof of British reponsibility in explosion, accuse Grunberg's
+carelessness (Birmingham Daily Post)
+
+* 1900-04-29: Article explosion cartoucherie (Le Temps)
+
+* 1900-05-02: Dépêche L. Grunberg et collaborateurs OK (Le Petit Marseillais)
+
+* 1900-05-21: question paiement compte en or (R8430)
+
+* 1900-05-28: Pretoria last defenses, questionning of Creusot battery (The
+Standard London)
+
+* 1900-06-03: S. Léon back to France, article (The Saint Paul Globe), incl.
+portrait
+
+* 1900-04-05: L. Grunberg in Lourenço-Marquès, accuses British for explosion
+(Chicago Tribune)
+
+* 1900-05-23: Claim for compensation for Begbie factory (CJC 223)
+
+* 1900-06-11: L. Grunberg à Lourenço-Marquès, en route pour l'Europe (La Lanterne
+du 14/06)
+
+* 1900-06-13: L. Grunberg "la guerre est virtuellement terminée" (L'Aurore, Le
+Figaro, Le Siècle)
+
+* 1900-06-25: General article on Boer war in Freeman's Journal (Dublin), mentions
+of Grunberg & Leon
+
+* 1900-06-30: rapport d'enquête sur explosition cartoucherie (Le Progrès)
+
+* 1900-07-08: retour L. Grunberg en France (Gil Blas, Le Petit Marseillais)
+
+* 1900-07-10: L. Grunberg in Paris (Dalington): Grunberg denies leaving ZAR
+because war is almost over, says Boer defeat by want of discipline
+
+* 1900-07-11: Reply to L. Grunberg's remark on Boer discipline in The Leeds
+Mercury
+
+* 1900-07-11: L. Grunberg à Paris (La Gazette de France)
+
+* 1900-08-29: affaire exécution Cordua
+
+* 1900-11-29: Kruger in Paris (The Times London), with Grunberg & Leon
+
+* 1900-12-04: Opération oeil S. Léon (L'écho de Paris)
+
+* 1895-1900: Léon Grunberg ingénieur et représentant général des Usines
+  Schneider & Cie pour l'Afrique du Sud
+
+
+# 1901
+
+* 1901-1926: Léon Grunberg ingénieur co-gérant de la Société en commandite Grunberg, Léon et Cie, devenue L. Grunberg et Cie puis Picard-Sauerbach, de 1901 à 1926
+
+
+# 1902
+
+
+* 1902-03-03: article publication Carnet de campagne Villebois Mareuil, débats
+antisémitisme… (Le Siècle)
+
+* 1902-10-15: généraux Boers à Paris (L'Intransigeant)
+
+
+# 1903
+
+* 1903-04: Claim for compensation for Begbie factory rejected (CJC 223)
+
 
 # 1904
+
+* 1904-10-10: Annonce mariage Léon Grunberg x Lucie Léon
 
 * 1904-12-15, Paris: Mariage Samuel Leon x Charlotte Goldschmid
 
@@ -335,9 +517,19 @@ Time line
 * 1910-08-27, Heidelberg: Décès d'Emma Rau
 
 
+# 1911
+
+* Dissolution de la société Léon Grunberg & Cie
+
+
 # 1915
 
 * 1915-06-05, Paris 17: Décès de Roger Pierre Leon
+
+
+# 1920
+
+* 1920-04-15: Mariage Léon Grunberg x Marie Sabatier
 
 
 # 1921
