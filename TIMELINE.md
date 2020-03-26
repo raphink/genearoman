@@ -110,6 +110,11 @@ Time line
 * 1847-04-30, Brody: Mariage de Dorothée et Moritz Karmin
 
 
+# 1849
+
+* 1849: épidémie de choléra à Paris, cf. Léopold Wertheim
+
+
 # 1850
 
 * Recensement Grünberg/Schorr à Brody (hors Dorothée)
@@ -130,10 +135,14 @@ Time line
 
 * Affaire Burtaux
 
+* 1853-1854: épidémie de choléra
+
 
 # 1854
 
 * 1854-11-05, Izmir: Naissance de Meïr/Marc Leon
+
+* 1853-1854: épidémie de choléra
 
 
 # 1860
@@ -170,11 +179,15 @@ Time line
 
 * 1865-08-12: Léopold Wertheim Chevalier de la Légion d'Honneur
 
+* 1865-1866: épidémie de choléra
+
 
 # 1866
 
 
 * 1866-04-14, Paris: Naturalisation d'Adolphe
+
+* 1865-1866: épidémie de choléra
 
 
 # 1867
