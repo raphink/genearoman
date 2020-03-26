@@ -277,7 +277,7 @@ Time line
 
 # 1880
 
-* Bottin 1880+: Grünberg (Mme)???, rentière, av de Villiers 11
+* Bottin 1880+: Grünberg (Mme), rentière, av de Villiers 11
 
 
 # 1881
@@ -312,6 +312,8 @@ Time line
 # 1894
 
 * 1893-1895, Paris: Léon Grunberg ingénieur au service de la voie à la Compagnie du Nord
+
+* 1894: Léon Grunberg: 11 avenue de Villiers à Paris.
 
 
 # 1895
@@ -488,6 +490,8 @@ Mercury
 
 * 1901: Samuel Léon, 52 rue Pierre Charron, Paris
 
+* 1901: Léon Grunberg: 2 rue Picot, Paris
+
 
 # 1902
 
@@ -496,6 +500,10 @@ Mercury
 antisémitisme… (Le Siècle)
 
 * 1902-10-15: généraux Boers à Paris (L'Intransigeant)
+
+* 1902: Léon Grunberg: A été Ingénieur à la Compagnie du Nord (bureau des études) ; Représentant de MM. Schneider et
+Compagnie et Entreprise de travaux publics ; actuellement Ingénieur civil : 97 avenue Victor-Hugo à
+Paris.
 
 
 # 1903
@@ -506,6 +514,8 @@ antisémitisme… (Le Siècle)
   actuellement Administrateur de la Société des Forces motrices d'Auvergne; 54
   rue Pierre Charron, Paris
 
+* 1903: Léon Grunberg: 97 avenue Victor-Hugo à Paris.
+
 
 # 1904
 
@@ -515,6 +525,9 @@ antisémitisme… (Le Siècle)
 
 * 1904: Samuel Léon: Administrateur de la Société des Forces motrices d'Auvergne ; de la maison Grunberg, Léon et
 Compagnie (appareil de chauffage au gaz), 49 rue de Tanger ; dom. : 54 rue Pierre-Charron à Paris.
+
+* 1904: Léon Grunberg: Directeur de la maison Grunberg Léon et Compagnie (ancien établissement Leclercq et Compagnie),
+chauffage au gaz et appareils sanitaires, 49 rue de Tanger ; dom. : 97 avenue Victor-Hugo à Paris.
 
 
 # 1906
@@ -527,6 +540,9 @@ Compagnie (appareil de chauffage au gaz), 49 rue de Tanger ; dom. : 54 rue Pierr
 * 1907: Samuel Léon: Administrateur de la Société des Forces motrices d'Auvergne ; de la maison Grunberg, Léon et
 Compagnie (appareil de chauffage au gaz), 49 rue de Tanger ; dom. : 22 avenue de la Grande-Armée
 à Paris.
+
+* 1907: Léon Grunberg: Directeur de la maisons Grunberg Léon et Compagnie, chauffage au gaz et appareils sanitaires, 49
+rue de Tanger ; dom. : 88 avenue Kléber à Paris.
 
 
 # 1909
@@ -556,6 +572,9 @@ Compagnie (appareil de chauffage au gaz), 49 rue de Tanger ; dom. : 22 avenue de
 
 * 1920-04-15: Mariage Léon Grunberg x Marie Sabatier
 
+* 1920: Léon Grunberg: Directeur de la maisons Grunberg Léon et Compagnie, chauffage au gaz et appareils sanitaires, 49
+rue de Tanger ; dom. : 38 avenue Hoche à Paris.
+
 
 # 1921
 
@@ -571,3 +590,8 @@ Compagnie (appareil de chauffage au gaz), 49 rue de Tanger ; dom. : 22 avenue de
 
 * 1923-10-19, Paris: Décès de Samuel Leon
 
+
+# 1926
+
+* 1926: Léon Grunberg: Directeur de la maisons Grunberg Léon et Compagnie, chauffage au gaz et appareils sanitaires, 49
+rue de Tanger ; dom. : 148 boulevard Haussmann à Paris 8 ème .
