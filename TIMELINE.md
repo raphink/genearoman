@@ -192,7 +192,7 @@ Time line
 # 1870
 
 
-* 1870-01-11, Paris: Naissance de Léon Grünberg
+* 1870-01-11, Paris: Naissance de Léon Grünberg à 7h du matin
 
 * Bottin: Adolphe Grünberg rue Royale St-Honoré 14
 
@@ -289,6 +289,10 @@ Time line
 
 * 1883-12-14, Lviv: Décès de Naphtali Mendel Schorr
 
+* Période 1880-1890 environ: Léon Grunberg au Collège Rollin; visites du Dr
+  Wertheim à Rollin; première blessure à la cheville; préparation
+  à Polytechnique et à l'Ecole Centrale, réception à l'Ecole Centrale.
+
 
 # 1890
 
@@ -299,7 +303,10 @@ Time line
 
 * 1892-07-28, Bougival: Naissance de Boby Goldschmid
 
-* Ecole Centrale, promotion 1892: Samuel Leon & Leon Grünberg
+* Ecole Centrale, promotion 1892: Samuel Leon & Leon Grünberg; Camarades de
+  Léon: Bardy, Benda, Sussfeld, Duret
+
+* 1892: Léon Grunberg marqué par l'affaire de la rue du Rocher
 
 
 # 1893
@@ -315,6 +322,8 @@ Time line
 
 * 1894: Léon Grunberg: 11 avenue de Villiers à Paris.
 
+* 1894: Léon Grunberg: premier incident antisémite (contexte: début de l'Affaire Dreyfus)
+
 
 # 1895
 
@@ -325,12 +334,15 @@ Time line
 * 1893-1895, Paris: Léon Grunberg ingénieur au service de la voie à la Compagnie du Nord
 
 * 1895-1900: Léon Grunberg ingénieur et représentant général des Usines
-  Schneider & Cie pour l'Afrique du Sud
+  Schneider & Cie pour l'Afrique du Sud; après refus d'un poste d'ingénieur
+  à Anzin proposé par Thomeguex de Genève, cousin de Casimir Perrier
 
 * 1895: Samuel Léon Ingénieur à la Compagnie du Théatrophone, 26 rue Marbeuf
 
 
 # 1896
+
+* 1895-12-29 - 1896-01-02: Raid Jameson
 
 * 1896-02-04: Contrat de commande de batteries
 
