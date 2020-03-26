@@ -306,6 +306,8 @@ Time line
 
 * 1893-1895, Paris: Léon Grunberg ingénieur au service de la voie à la Compagnie du Nord
 
+* 1893, Paris: Samuel Léon, 26 rue Marbeuf
+
 
 # 1894
 
@@ -322,6 +324,8 @@ Time line
 
 * 1895-1900: Léon Grunberg ingénieur et représentant général des Usines
   Schneider & Cie pour l'Afrique du Sud
+
+* 1895: Samuel Léon Ingénieur à la Compagnie du Théatrophone, 26 rue Marbeuf
 
 
 # 1896
@@ -357,6 +361,8 @@ Time line
 
 * 1895-1900: Léon Grunberg ingénieur et représentant général des Usines
   Schneider & Cie pour l'Afrique du Sud
+
+* 1897: Samuel Léon, P.O. Box 1529, Johannesburg (Transvaal)
 
 
 # 1898
@@ -480,6 +486,8 @@ Mercury
 
 * 1901-1926: Léon Grunberg ingénieur co-gérant de la Société en commandite Grunberg, Léon et Cie, devenue L. Grunberg et Cie puis Picard-Sauerbach, de 1901 à 1926
 
+* 1901: Samuel Léon, 52 rue Pierre Charron, Paris
+
 
 # 1902
 
@@ -494,6 +502,10 @@ antisémitisme… (Le Siècle)
 
 * 1903-04: Claim for compensation for Begbie factory rejected (CJC 223)
 
+* 1903: Samuel Léon: a été ingénieur de MM. Schneider & Cie au Transvaal;
+  actuellement Administrateur de la Société des Forces motrices d'Auvergne; 54
+  rue Pierre Charron, Paris
+
 
 # 1904
 
@@ -501,10 +513,20 @@ antisémitisme… (Le Siècle)
 
 * 1904-12-15, Paris: Mariage Samuel Leon x Charlotte Goldschmid
 
+* 1904: Samuel Léon: Administrateur de la Société des Forces motrices d'Auvergne ; de la maison Grunberg, Léon et
+Compagnie (appareil de chauffage au gaz), 49 rue de Tanger ; dom. : 54 rue Pierre-Charron à Paris.
+
 
 # 1906
 
 * 1906-10-20, Paris 17: Naissance de Roger Pierre Leon
+
+
+# 1907
+
+* 1907: Samuel Léon: Administrateur de la Société des Forces motrices d'Auvergne ; de la maison Grunberg, Léon et
+Compagnie (appareil de chauffage au gaz), 49 rue de Tanger ; dom. : 22 avenue de la Grande-Armée
+à Paris.
 
 
 # 1909
@@ -521,6 +543,9 @@ antisémitisme… (Le Siècle)
 
 * Dissolution de la société Léon Grunberg & Cie
 
+* Samuel Léon: Administrateur de la Société des Forces motrices d'Auvergne ; dom. : 22 avenue de la Grande-Armée
+à Paris.
+
 
 # 1915
 
@@ -536,9 +561,13 @@ antisémitisme… (Le Siècle)
 
 * 1921-10-31, Paris: Divorce Samuel Leon x Charlotte Goldschmid
 
+* 1921: Samuel Léon: Administrateur de la Société des Forces motrices d'Auvergne ; Fabricant de boîtes métalliques ; bur. :
+22 rue Labrouste ; dom. : 22 avenue de la Grande-Armée à Paris.
+
 
 # 1923
 
 * 1923-04-27, Paris: Décès de Louis Rau
 
 * 1923-10-19, Paris: Décès de Samuel Leon
+
