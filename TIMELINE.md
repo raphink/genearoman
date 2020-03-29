@@ -1,5 +1,5 @@
-Time line
-=========
+Chronologie générale
+====================
 
 
 # 1800
@@ -204,6 +204,8 @@ Time line
 
 # 1870
 
+* 1870-09-17 - 1871-01-26: Siège de Paris
+
 
 * 1870-01-11, Paris: Naissance de Léon Grünberg à 7h du matin
 
@@ -212,7 +214,12 @@ Time line
 
 # 1871
 
+* 1870-09-17 - 1871-01-26: Siège de Paris
+
 * 1871-01-26, Munich: Naissance de Frederic Grünberg
+
+* 1871-03-18 - 1871-05-28: Commune de Paris
+* 1871-05-21 - 1871-05-28: "Semaine sanglante"
 
 * Grünberg à Munich pendant le siège de Paris (et la commune?)
 
