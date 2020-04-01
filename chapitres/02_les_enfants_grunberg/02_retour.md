@@ -56,7 +56,7 @@ Alors que la tension montait entre les enfants, un cri se fit
 entendre dans la cour. Tous coururent coller leur visage à la vitre pour
 observer la calèche qui s'y était arrêtée. Lentement, la porte s'ouvrit et,
 tandis que le cocher descendait une à une les malles du toit de la voiture, un
-homme à l'allure élégante en descendit. Son allure ne laissa aucun doute aux
+homme à l'allure élégante en descendit. Sa silouhette ne laissa aucun doute aux
 enfants, qui s'écrièrent d'une seule voix:
 
 « Tate! »
