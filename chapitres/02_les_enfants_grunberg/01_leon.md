@@ -36,4 +36,30 @@ laissant derrière lui Charlotte et le petit Jacques à la nurserie.
 Après avoir salué le précepteur, les enfants s'installèrent à leur table pour
 la leçon.
 
+« Qu'allons-nous étudier aujourd'hui, Monsieur? demanda Émilie.
+
+--- Commençons par vos leçons d'allemand. Il est important pour vous de
+maîtriser cette langue.
+
+--- C'est ce que répète toujours Mame, fit remarquer Paul.
+
+--- Il est très important pour vos grand-parents que vous parliez
+leur langue. De plus, l'Empire Allemand est une grande puissance,
+et il ne faut pas négliger les opportunités que la maîtrise de cette langue
+pourront un jour vous offrir.
+
+--- Puisqu'il le faut… » soupira Léon en ouvrant nonchallamment l'encrier qui
+était inséré dans son pupitre.
+
+Et après avoir trempé sa plume, il entreprit de recopier un tableau de
+déclinaisons que le précepteur avait placé devant lui.
+
+« Quand notre père sera-t-il de retour à Paris? » s'enquit Paul.
+
+Le jeune homme releva les yeux du livre dans lequel il avait plongé sa
+concentration et répondit:
+
+"Dans une semaine environ. D'ici là, faites de votre mieux pour travailler
+durement et vous montrer dignes de son estime."
+
 
