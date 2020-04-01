@@ -72,7 +72,7 @@ d'un signe de la tête de rentrer dans leur chambre.
 « Votre père est fatigué de son voyage. Il vous faudra attendre pour le saluer. »
 
 D'un pas traînant, les enfants tournèrent les talons et rentrèrent tristement
-dans leurs quartiers. Ils s'assirent chacun sur leur lit en soupirant, et en
+dans leurs quartiers. Chacun s'assit sur son lit en soupirant, et en
 rêvant aux présents que Tate avait bien pu leur rapporter.
 
 
