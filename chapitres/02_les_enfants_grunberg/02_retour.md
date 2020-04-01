@@ -64,4 +64,15 @@ enfants, qui s'écrièrent d'une seule voix:
 Et ils accoururent vers la porte de leur chambre, avec la ferme intention
 d'aller à la rencontre de leur père.
 
+À peine avaient-ils mis le pied dans le couloir qu'ils furent arrêtés
+dans leur élan. Bobe Mirel se tenait en haut de l'escalier, les mains posées
+sur les plis de sa robe. Tournant la tête vers les enfants, elle leur indiqua
+d'un signe de la tête de rentrer dans leur chambre.
+
+« Votre père est fatigué de son voyage. Il vous faudra attendre pour le saluer. »
+
+D'un pas traînant, les enfants tournèrent les talons et rentrèrent tristement
+dans leurs quartiers. Ils s'assirent chacun sur leur lit en soupirant, et en
+rêvant aux présents que Tate avait bien pu leur rapporter.
+
 
