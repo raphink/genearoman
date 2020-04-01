@@ -31,7 +31,7 @@ Pour autant, les activités de manquaient pas à la maison.
 
 
 Un par un, les enfants sortirent de leur chambre à la rencontre du maître.
-Émilie s'avançait dignement, suivie de Paul. Léon emboîta le pas,
+Émilie s'avançait dignement, suivie de Paul et Frédéric. Léon emboîta le pas,
 laissant derrière lui Charlotte et le petit Jacques à la nurserie.
 Après avoir salué le précepteur, les enfants s'installèrent à leur table pour
 la leçon.
@@ -54,7 +54,7 @@ pourront un jour vous offrir.
 Et après avoir trempé sa plume, il entreprit de recopier un tableau de
 déclinaisons que le précepteur avait placé devant lui.
 
-« Quand notre père sera-t-il de retour à Paris? » s'enquit Paul.
+« Quand notre père sera-t-il de retour à Paris? » s'enquit Frédéric.
 
 Le jeune homme releva les yeux du livre dans lequel il avait plongé sa
 concentration et répondit:
