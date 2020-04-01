@@ -1,5 +1,5 @@
 <!--
-Chapitre 02: Les enfants Grünberg
+Chapitre 02: Le coffre
 Personnages:
   - Adolphe & Elisabeth Grünberg
   - Les enfants
@@ -10,8 +10,10 @@ Personnages:
 Dates: mai 1876 - mai 1877
 POV: Léon Grunberg
 Résumé: 
+Les enfants Grunberg se demandent pourquoi leur père enferme chaque soir ses
+diamants dans un coffre fort.
 -->
 
-Les enfants Grünberg
-====================
+Le coffre fort
+==============
 

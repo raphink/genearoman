@@ -4,18 +4,20 @@ Personnages:
   - Léon Grünberg
 POV: Léon Grünberg
 Résumé:
+Les enfants Grünberg attendent le retour de leur père depuis des semaines. Ils
+se demandent quand il va rentrer.
 -->
 
 
 \lettrine{D}'aussi loin qu'il puisse se souvenir, Léon n'avait jamais beaucoup
-vu son père. Ce n'était pas que *Tate* cherchait à éviter ses enfants, mais il
+vu son père. Ce n'était pas que Tate cherchait à éviter ses enfants, mais il
 semblait toujours occupé à des affaires bien plus graves que de celles de ses
 petites têtes blondes.
 
 Bien sûr, il y avait des moments en famille. On se retrouvait dans la maison
-à Chatou avec l'oncle Louis, la tante Nelly et leurs enfants.
+de Chatou avec l'oncle Louis, la tante Nelly et leurs enfants.
 Ils avaient une maison dans le même quartier, et la compagnie de son
-frère était toujours un moment de joie pour *Mame*.
+frère était toujours un moment de joie pour Mame.
 
 Ces derniers temps cependant, Tate avait dû beaucoup s'absenter. Mame avait
 expliqué qu'il était parti en Égypte résoudre une affaire, et qu'il reviendrait
