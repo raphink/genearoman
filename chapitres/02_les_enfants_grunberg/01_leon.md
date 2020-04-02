@@ -43,8 +43,7 @@ maîtriser cette langue.
 
 --- C'est ce que répète toujours Mame, fit remarquer Paul.
 
---- Il est très important pour vos grand-parents que vous parliez
-leur langue. De plus, les empires allemand et autrichien sont de grandes puissances,
+--- Et elle a raison. Les empires allemand et autrichien sont de grandes puissances,
 et il ne faut pas négliger les opportunités que la maîtrise de cette langue
 pourront un jour vous offrir.
 
