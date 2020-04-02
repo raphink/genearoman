@@ -61,7 +61,7 @@ doux zéphyr.
 Pacha, Adolphe? s'enquérit Isaac.
 
 --- Il s'agit du paiement de mes honoraires lors de la vente de joyaux de la
-couronne. Lors de mon précédent séjour entre 1855 et 1863, j'ai travaillé
+couronne. Lors de mon précédent séjour en Égypte, j'ai travaillé
 à démonter des pierres dont étaient serties des armes royales ainsi que des
 pièces de joaillerie. 
 
