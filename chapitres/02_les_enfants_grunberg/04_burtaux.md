@@ -18,13 +18,16 @@ que c'est pour ne pas les encourager à faire de même.
 "Bobbele, Bobbele!"
 
 La petite Charlotte courait vers sa grand-mère, ses boucles blondes s'envolant
-à l'arrière de sa robe à carreaux.
+à l'arrière de sa robe à carreaux reflétaient la lumière du soleil filtrant
+à travers les grandes vitres de la véranda.
 
 « Qu'y a-t-il mon enfant? la questionna Mirel.
 
 --- Bobe, est-ce qu'il y a un trésor dans le coffre de Tate? »
 
-La femme esquissa un sourire.
+La femme se redressa légèrement sur sa chaise, posa la tasse de thé qu'elle
+tenait à la main sur la table de jardin, et esquissa un sourire en direction de
+la fillette.
 
 « Eh bien, il y a son trésor. Ses pierres précieuses.
 
@@ -95,9 +98,14 @@ parfois sur son bureau lorsqu'il en sortait pour les montrer à des acheteurs. 
 
 
 Les enfants étaient suspendus aux lèvres de leur grand-mère.
-Ce fut Léon qui le premier brisa le silence:
+Léon avait laissé quelques instants son regard divaguer dans la pièce.
+Il fixa les yeux sur le buste en marbre blanc du vice-roi d'Égypte qui trônait au
+milieu de la véranda. Le visage impérieux de Saïd Pacha, noyé dans sa
+barbe fournie, semblait le toiser du haut de son piédestal d'un regard froid et
+inquisiteur, comme pour l'accuser de sa présomption.
+Léon frissona, et, se retournant, brisa brusquement le silence:
 
-« C'est Burtaux qui les avait volés!
+« C'est Burtaux qui avait volé les diamants!
 
 --- C'est ce qu'on a pensé, car ils n'avaient pas pu disparaître depuis bien
 longtemps, et que le domestique couchait dans une pièce voisine du bureau.
@@ -158,4 +166,4 @@ père a fini par aller porter plainte au commissariat de police.
 Mirel s'apprêtait à répondre à Léon, quand le carillon de la porte sonna.
 
 
-"Dépêchez-vous de finir de vous préparer, votre précepteur est là!"
+"Dépêchez-vous de finir de vous préparer, le professeur de musique est là!"
