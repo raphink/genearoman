@@ -7,6 +7,7 @@ Personnages:
 POV: Adolphe Grünberg
 Résumé:
 section complète à Brody
+Été 1844
 Introduire l'environnement,
 la famille Schorr: ses grand-parents Schachne & Lea, Naphtali & sa famille,
 la maison de Brody, la synagogue, etc.
@@ -43,10 +44,10 @@ Brody la Jérusalem autrichienne!
 Adolphe se décala légèrement sur le banc afin que Dorothée puisse s'asseoir
 à son côté. Bobe Sarah les accompagnait toujours à l'office du vendredi soir.
 Elle aimait passer du temps avec ses petits enfants depuis le décès de
-Zeyde Schachne quatre ans auparavant. Qu'allait-elle devenir si la famille
+Zeyde Schachne. Qu'allait-elle devenir si la famille
 déménageait à Paris? L'oncle Naphtali prendrait probablement soin d'elle.
 
-Paris… Du haut de ses seize ans, Adolphe s'imaginait déjà la gloire et les
+Paris… Du haut de ses vingt ans, Adolphe s'imaginait déjà la gloire et les
 honneurs que leur vaudrait une réussite en France, dans cette patrie de liberté
 et de prospérité…
 
