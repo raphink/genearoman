@@ -17,7 +17,8 @@ que c'est pour ne pas les encourager à faire de même.
 
 "Bobbele, Bobbele!"
 
-La petite Charlotte courait vers sa grand-mère, ses boucles blondes s'envolant
+La petite Charlotte courait vers sa grand-mère.
+Ses boucles blondes s'envolant
 à l'arrière de sa robe à carreaux reflétaient la lumière du soleil filtrant
 à travers les grandes vitres de la véranda.
 
