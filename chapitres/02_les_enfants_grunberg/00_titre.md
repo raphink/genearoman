@@ -12,6 +12,8 @@ POV: Léon Grunberg
 Résumé: 
 Les enfants Grunberg se demandent pourquoi leur père enferme chaque soir ses
 diamants dans un coffre fort.
+Contexte:
+La France sous la troisième république (Mac Mahon)
 -->
 
 Le coffre fort
