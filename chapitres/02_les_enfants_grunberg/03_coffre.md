@@ -34,7 +34,7 @@ souper.
 
 --- Peut-être qu'ils ne veulent pas le payer…
 
---- Après le repas, il est allé dans son bureau ranger des papiers
+--- Après le repas, il est allé dans sa chambre ranger des papiers
 et a vérifié son coffre. Ensuite, il est monté dans sa chambre et n'est pas
 redescendu.
 
