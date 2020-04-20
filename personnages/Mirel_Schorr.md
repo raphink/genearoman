@@ -1,11 +1,21 @@
 # Mirel Schorr
 
 
-## Identité
+## État civil
 
 * Prénoms : Mirel, dite Maria
 * Nom : Grünberg
 * Nom de naissance : Schorr
+
+
+## Portrait
+
+Inconnu
+
+
+## Description physique
+
+Inconnu
 
 
 
@@ -14,6 +24,11 @@
 
 * ca 1800 : ° à [Dubno](../lieux/Dubno) (Russie)
 * Enfance à [Brody](../lieux/Brody) (Autriche)
+  avec ses parents [Schachne](Schachne_Schorr.md)
+  et [Sarah](Sarah_Bick.md)
+  et ses frères [Naphtali](Naphtali_Mendel_Schorr.md)
+  et [Osias](Osias_Heschel_Schorr.md)
+
 * 1821: Mariage à [Brody](../lieux/Brody)
 
 * 1870 : habite à [Vienne](../lieux/Vienne) (testament [Adolphe](Adolphe_Grunberg.md))
