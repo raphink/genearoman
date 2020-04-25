@@ -318,6 +318,8 @@ Chronologie générale
 
 * 1890-03-29, Paris 17: Décès de Léopold Wertheim
 
+* 1890-10-15, Mariage Émilie Grunberg et Wilhelm Sauerbach
+
 
 # 1892
 
