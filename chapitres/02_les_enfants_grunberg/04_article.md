@@ -31,7 +31,7 @@ bien être ici!
 Émilie s'approcha doucement de la fenêtre. La lueur de sa chandelle dessinait des
 ombres étranges sur les tableaux au mur. Les visages des soldats de la retraite
 de Russie semblaient s'animer d'airs inquiétants, et même le paysage paisible
-de bord de Seine paraissait prendre feu au passage de la flamme.
+de bord de Seine paraissait s'embraser au passage de la flamme.
 
 Lorsqu'elle atteignit l'extrémité de la chambre,
 Émilie balaya rapidement du regard l'établi à la recherche d'un quelconque
