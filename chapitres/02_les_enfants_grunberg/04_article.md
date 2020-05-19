@@ -55,6 +55,6 @@ catimini les escaliers jusqu'à la chambre des enfants. Elle souffla la bougie
 et se glissa sur le bord du lit en prenant bien soin de ne pas réveiller
 Charlotte.
 
-Haletante, elle déposa doucement le mystérieux morceaux de papier sous le
+Haletante, elle déposa doucement le mystérieux morceau de papier sous le
 matelas. Elle aurait bien l'occasion de finir de le déchiffrer demain.
 
