@@ -35,7 +35,7 @@ de bord de Seine paraissait s'embraser au passage de la flamme.
 
 Lorsqu'elle atteignit l'extrémité de la chambre,
 Émilie balaya rapidement du regard l'établi à la recherche d'un quelconque
-indice, mais rien de lui parut sortir de l'ordinaire. Tout juste un morceau de
+indice, mais rien ne lui parut sortir de l'ordinaire. Tout juste un morceau de
 papier qui dépassait d'une jolie petite boîte en marqueterie. Poussée par la
 curiosité, elle tendit la main et s'en saisit. C'était une coupure de journal.
 Au toucher, on sentait bien qu'elle était ancienne.
