@@ -16,8 +16,8 @@ Un chandelier à la main, elle passa le pas de la porte en marchant le plus
 délicatement possible afin d'éviter de faire grincer le plancher.
 
 Elle posa la main sur la rampe de l'escalier et entreprit de descendre les
-marches une à une. Sous ses pieds, la tapisserie des marches émettait de petits
-bruits de frottements.
+marches une à une. Sous ses pieds, la tapisserie émettait de petits
+bruits de frottements feutrés.
 
 Arrivée sur la palier du premier étage, une latte grinça sous le poids de son corps.
 Elle s'arrêta net, dressant l'oreille pour tenter de deviner si les adultes
