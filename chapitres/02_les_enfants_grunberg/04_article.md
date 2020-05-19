@@ -29,7 +29,7 @@ de la chambre de son père. Si il leur avait rapporté des cadeaux, ils devaient
 bien être ici!
 
 Émilie s'approcha doucement de la fenêtre. La lueur de sa chandelle dessinait des
-ombres étranges sur les tableaux au mur. Le visage des soldats de la retraite
+ombres étranges sur les tableaux au mur. Les visages des soldats de la retraite
 de Russie semblaient s'animer d'airs inquiétants, et même le paysage paisible
 de bord de Seine paraissait prendre feu au passage de la flamme.
 
