@@ -12,7 +12,7 @@ journal.
 
 Tout était calme dans la maison lorsqu'Émilie s'aventura dans le couloir
 obscur. 
-Un chandelier à la main, elle sortit doucement en marchant le plus
+Un chandelier à la main, elle passa le pas de la porte en marchant le plus
 délicatement possible afin d'éviter de faire grincer le plancher.
 
 Elle posa la main sur la rampe de l'escalier et entreprit de descendre les
