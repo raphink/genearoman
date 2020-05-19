@@ -13,7 +13,7 @@ journal.
 Tout était calme dans la maison lorsqu'Émilie s'aventura dans le couloir
 obscur. 
 Un chandelier à la main, elle sortit doucement en marchant le plus
-délicament possible afin d'éviter de faire grincer le plancher.
+délicatement possible afin d'éviter de faire grincer le plancher.
 
 Elle posa la main sur la rampe de l'escalier et entreprit de descendre les
 marches une à une. Sous ses pieds, la tapisserie des marches émettait de petits
