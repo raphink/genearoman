@@ -52,7 +52,7 @@ Voilà qui était bien étrange.
 Une voix forte se fit entendre. Adolphe s'apprêtait à monter. Sans perdre un
 instant, Émilie sortit sur la pointe des pieds de la chambre et remonta en
 catimini les escaliers jusqu'à la chambre des enfants. Elle souffla la bougie
-et se glissa dans sur le bord du lit en prenant bien soin de ne pas réveiller
+et se glissa sur le bord du lit en prenant bien soin de ne pas réveiller
 Charlotte.
 
 Haletante, elle déposa doucement le mystérieux morceaux de papier sous le
