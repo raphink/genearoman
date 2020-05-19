@@ -45,7 +45,7 @@ redescendu.
 --- Ou le plan d'un trésor! lâcha Frédéric avec excitation.
 
 --- Bien sûr que non, répliqua Émilie. Il cache ses pierres précieuses
-dans le coffre du bureau, pour que personne ne puisse les prendre!
+dans le coffre de sa chambre, pour que personne ne puisse les prendre!
 
 --- Mais qui pourrait bien les voler dans notre maison? demanda Léon. »
 
