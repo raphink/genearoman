@@ -255,12 +255,9 @@ $if(verbatim-in-note)$
 \VerbatimFootnotes % allows verbatim text in footnotes
 $endif$
 $if(lang)$
-\ifxetex
   \usepackage{polyglossia}
-  \setmainlanguage{$mainlang$}
-\else
-  \usepackage[$lang$]{babel}
-\fi
+  \setmainlanguage{$lang$}
+$endif$
 
 
 % Index
@@ -281,7 +278,6 @@ $if(lang)$
 \setlength{\epigraphwidth}{0.55\linewidth}
 \newcommand{\chquote}[3]{\epigraph{#1}{\textsc{#2}\\ \textit{#3}}}
 
-$endif$
 $for(header-includes)$
 $header-includes$
 $endfor$

@@ -39,8 +39,6 @@ stats:
 
 %.pdf: %.tex
 	OSFONTDIR=$(FONTSDIR) lualatex $<
-	makeindex $*.idx
-	OSFONTDIR=$(FONTSDIR) lualatex $<
 
 %-book.pdf: %.pdf
     #
