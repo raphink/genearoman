@@ -24,7 +24,7 @@ iridescence orangée.
 
 Suivant la foule, Adolphe franchit les piliers qui flanquaient l'entrée et
 prit place pour l'office. Dans la lumière tamisée des candélabres, le cantor
-entonna sa psalmodie et son chant l'éleva mélodieusement entre les colonnades
+entonna sa psalmodie et son chant s'éleva mélodieusement entre les colonnades
 de marbre rose de la nef.
 Adolphe ferma les yeux et fut transporté à des milliers de
 kilomètres de là.
