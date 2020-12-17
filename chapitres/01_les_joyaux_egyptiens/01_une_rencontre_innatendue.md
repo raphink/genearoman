@@ -11,7 +11,7 @@ Aghion, qui l'invite à dîner.
 
 \lettrine{I}l est des villes dont le nom excite l'imagination par la grandeur de
 leur passé. Il est des villes dont l'évocation inspire le silence.
-Alexandrie est de celles-là, elle dont les flots jadis engloutirent
+Alexandrie est de celles-là, elle dont les flots engloutirent autrefois
 l'illustre phare, elle dont la terre fut jadis fertilisée des milliers
 de volumes de la grande bibliothèque, dont les cendres attendent depuis
 lors de renaître à leur gloire d'antan.
