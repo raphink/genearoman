@@ -304,6 +304,12 @@ Chronologie générale
 
 * 1881-10-11, Paris: Naissance de Charlotte Goldschmid
 
+* 1881-03-31, Alexandrie: Mariage Marc Léon & Eugénie Aghion
+
+* 1881: Bar mitzvah Samuel Léon?
+
+* 1881: Installation de Samuel Léon (13 ans) en France
+
 
 # 1883
 
@@ -317,6 +323,8 @@ Chronologie générale
 # 1890
 
 * 1890-03-29, Paris 17: Décès de Léopold Wertheim
+
+* 1890-09-02, Paris: Naturalisation Marc Léon
 
 * 1890-10-15, Mariage Émilie Grunberg et Wilhelm Sauerbach
 
@@ -412,7 +420,7 @@ Chronologie générale
 
 # 1899
 
-* 1899-01-14: Naturalisation de Samuel Leon
+* 1899-01-14: Naturalisation de Samuel Leon. Habite avec Marc Léon, gagne 400 à 500 frs/mois.
 
 * 1899-03-28: Contrat Schneider/ZAR (pdf)
 
@@ -430,11 +438,9 @@ Chronologie générale
 
 # 1900
 
-* 1900-01-14: Villebois Mareuil chez L. Grunberg & S. Léon à Pretoria (Carnets de
-campagne, p. 158)
+* 1900-01-14: Villebois Mareuil chez L. Grunberg & S. Léon à Pretoria (Carnets de campagne, p. 158)
 
-* 1900-02-12: Accident de Sam Léon à Kimberley (Carnets de campagne, p. 253; Dix
-mois de campagne, p. 82)
+* 1900-02-12: Accident de Sam Léon à Kimberley (Carnets de campagne, p. 253; Dix mois de campagne, p. 82)
 
 * 1900-02-23: Articles suite à lettre Villebois Mareuil: Canon Creusot, Grunberg
 & Leon (Gil Blas, La Croix, Le Petit Troyen, Figaro, Birmigham Daily Post,
